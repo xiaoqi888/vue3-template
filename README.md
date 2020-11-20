@@ -24,3 +24,4 @@ npm run dev
 # transpile js for deployment
 npm run build
 ```
+# vue3-template
